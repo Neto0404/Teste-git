@@ -1,0 +1,5 @@
+﻿fazer o console funcionar apenas das 7h até as 13h
+Qual o valor da nota que o cliente pagou
+qual foi o valor que o cliente gastou
+mostrar o troco
+e o valor atal do caixa
