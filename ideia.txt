@@ -3,3 +3,8 @@ Qual o valor da nota que o cliente pagou
 qual foi o valor que o cliente gastou
 mostrar o troco
 e o valor atual do caixa
+
+
+
+
+montar um pequeno menu para as operaçoes 
